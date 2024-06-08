@@ -11,10 +11,9 @@ footer{
 }
 
 #site_header{
-
     padding: 0px 20px;
 }
 
-h1 {
-
+.page_title{
+    padding: 0px 10px;
 }
