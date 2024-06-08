@@ -8,7 +8,7 @@ class FlashcardsController < ApplicationController
     def decks
         render({template: "display/decks"})
     end
-    def cardss
+    def cards
         render({template: "display/cards"})
     end
     
