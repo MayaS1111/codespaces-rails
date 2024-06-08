@@ -3,7 +3,7 @@ class FlashcardsController < ApplicationController
         render({template: "display/home"})
     end
     def profile
-        render({template: "display/home"})
+        render({template: "display/profile"})
     end
     def decks
         render({template: "display/decks"})
